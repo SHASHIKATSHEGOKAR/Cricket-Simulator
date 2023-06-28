@@ -1,5 +1,16 @@
-# Cricket-Simulator
-The provided code is a cricket match simulator that mimics a real-world cricket game. 
+# Cricket Simulator
+
+The Cricket Simulator is a Python program that allows you to experience the thrill of a cricket match right from your computer! It lets you simulate a match between two teams and provides commentary on the game as it unfolds. Whether you're a cricket enthusiast or just curious about the sport, this simulator will give you a taste of the action.
+
+## How to Run
+
+To run the Cricket Simulator, follow these simple steps:
+
+1. Make sure you have Python installed on your computer.
+2. Download the code files from the repository or clone the repository to your local machine.
+3. Open a terminal or command prompt and navigate to the folder where the code files are located.
+4. Run the `cricket_simulator.py` file using the Python interpreter.
+5. Follow the instructions on the screen to witness the simulated cricket match and enjoy the commentary.
 
 ## Features
 
